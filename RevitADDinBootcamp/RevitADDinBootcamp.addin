@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>RAB Challenges</Name>
+    <Assembly>RevitADDinBootcamp\RevitADDinBootcamp.dll</Assembly>
+    <FullClassName>RevitADDinBootcamp.App</FullClassName>
+    <ClientId>f393533d-9df4-4b99-b631-faa6179f677d</ClientId>
+    <VendorId>Revit Add-in Bootcamp</VendorId>
+    <VendorDescription>Revit Add-in Bootcamp, https://academy.archsmarter.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAB Skills Module 01</Text>
+    <Description>RAB Skills Module 01</Description>
+    <Assembly>RevitADDinBootcamp\RevitADDinBootcamp.dll</Assembly>
+    <FullClassName>RevitADDinBootcamp.cmdSkills01</FullClassName>
+    <ClientId>3028fbc1-c7fa-4b3f-b4d5-6980c869416a</ClientId>
+    <VendorId>Revit Add-in Bootcamp</VendorId>
+    <VendorDescription>Revit Add-in Bootcamp, https://academy.archsmarter.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
