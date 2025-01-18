@@ -13,8 +13,10 @@
             // Your Module 01 Skills code goes here
             // Delete the TaskDialog below and add your code
             TaskDialog.Show("Module 01 Skills", "Got Here to Skill 01!");
-            TaskDialog.Show("test", "Testing to see if this makes it to GitHub");
-            TaskDialog.show("test2", "Testing to see if this makes it to VS");
+            TaskDialog.Show("Test", "Testing to see if this makes it to GitHub");
+            TaskDialog.show("Test2", "Testing to see if this makes it to VS");
+            TaskDialog.Show("Test3", "This is my tes branch!");
+            
             return Result.Succeeded;
         }
     }
