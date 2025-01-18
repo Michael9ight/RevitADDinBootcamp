@@ -15,7 +15,7 @@
             TaskDialog.Show("Module 01 Skills", "Got Here to Skill 01!");
             TaskDialog.Show("Test", "Testing to see if this makes it to GitHub");
             TaskDialog.show("Test2", "Testing to see if this makes it to VS");
-            TaskDialog.Show("Test3", "This is my tes branch!");
+            TaskDialog.Show("Test3", "This is my test branch!");
             
             return Result.Succeeded;
         }
