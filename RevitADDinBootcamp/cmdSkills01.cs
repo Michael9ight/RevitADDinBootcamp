@@ -14,7 +14,7 @@
             // Delete the TaskDialog below and add your code
             TaskDialog.Show("Module 01 Skills", "Got Here to Skill 01!");
             TaskDialog.Show("test", "Testing to see if this makes it to GitHub");
-
+            TaskDialog.show("test2", "Testing to see if this makes it to VS");
             return Result.Succeeded;
         }
     }
